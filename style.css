@@ -1,0 +1,24 @@
+html {
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.main-title {
+    color: red;
+    text-align: center;
+}
+
+.title-block{
+    background-color: blue;
+    padding: 10px, 10px, 10px, 10px;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+}
