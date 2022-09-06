@@ -20,9 +20,15 @@ body{
     font-family:'Poppins', 'sans-serif';
     font-size: 1.0rem;
     transition: all .4s ease-in-out;
-
 }
 
+.landing-hero{
+    background-image: url(images/flowers-laptop.webp);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.6;
+}
 
 header{
     display: block;
@@ -72,12 +78,6 @@ header ul li.active
     max-width: 50px;
     max-height: 50px;
     cursor: pointer;
-}
-
-.img-home{
-    opacity: 0.6;
-    height: 80%;
-    width: 100%;
 }
 
 section{
